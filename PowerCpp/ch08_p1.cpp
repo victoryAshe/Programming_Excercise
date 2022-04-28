@@ -1,4 +1,4 @@
-// 복소수 클래스 구현
+﻿// 복소수 클래스 구현
 
 #include<iostream>
 using namespace std;
