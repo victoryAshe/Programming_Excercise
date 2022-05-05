@@ -26,10 +26,11 @@ void Employee::printEmp() {
 	cout << "이름: " << name << " | 나이 : " << age << " | 월급 : " << salary
 		<< " | 연차 : " << years << endl;
 }
-
+/*
 void main() {
 	Employee emp = Employee();
 	emp.setEmp();
 	emp.printEmp();
 
 }
+*/
