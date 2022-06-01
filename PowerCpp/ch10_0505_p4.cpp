@@ -34,7 +34,7 @@ private:
 	int* m_pnData;
 };
 
-int main()
+int m()
 {
 	MyData a(10);
 	MyData b(a);

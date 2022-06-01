@@ -144,6 +144,12 @@
     <ClCompile Include="ch09_e9.cpp" />
     <ClCompile Include="ch10_0505_p4.cpp" />
     <ClCompile Include="ch10_e7.cpp" />
+    <ClCompile Include="ch11_p459.cpp" />
+    <ClCompile Include="ch11_p460.cpp" />
+    <ClCompile Include="ch11_p461.cpp" />
+    <ClCompile Include="ch12_p494.cpp" />
+    <ClCompile Include="ch12_p501.cpp" />
+    <ClCompile Include="ch12_p509.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
